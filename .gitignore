@@ -1,0 +1,7 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjectEvaluation/todoapp.metadata.v9.bin
+/.vs/ProjectEvaluation/todoapp.projects.v9.bin
+/.vs/ProjectEvaluation/todoapp.strings.v9.bin
