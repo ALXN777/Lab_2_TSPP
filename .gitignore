@@ -5,3 +5,6 @@
 /.vs/ProjectEvaluation/todoapp.metadata.v9.bin
 /.vs/ProjectEvaluation/todoapp.projects.v9.bin
 /.vs/ProjectEvaluation/todoapp.strings.v9.bin
+/bin/Debug/net8.0
+/.gitignore
+/.gitignore
